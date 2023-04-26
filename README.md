@@ -5,8 +5,15 @@ Repository containing the models from the manuscript "First fully automated AI/M
 
 **1)** Download the github repository
 
-**2)** Unzip the model with: 
+**2)** Unzip single models with: 
+
 tar -xzvf <model_name>.tar.gz
 
+
+Alternatively, unzip all models by running:
+
+./unzip_all.sh
+
 **3)** Run model with ZairaChem using: 
+
 zairachem predict -i <input_data> -m /path/to/model -o /path/to/output/location
