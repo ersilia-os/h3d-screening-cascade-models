@@ -4,7 +4,7 @@ This repository contains data and models related to the [article](https://www.bi
 This work has been performed with [ZairaChem](https://github.com/ersilia-os/zaira-chem), an AutoML QSAR/QSPR pipeline developed by [Ersilia](https://ersilia.io).
 
 ## Download models
-Models presented in the article can be downloaded as zipped files and deployed locally. For a quick exploration of these models, please visit this [online app](https://h3dscreening.ersilia.io).
+Models presented in the article can be downloaded as zipped files and deployed locally. For a quick exploration of these models, please visit this [online app](https://h3d-screening-cascade-app-fikzu.ondigitalocean.app).
 
 |    | Model                       |   AUROC | Download   |
 |---:|:----------------------------|--------:|:-----------|
